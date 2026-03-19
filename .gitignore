@@ -1,0 +1,16 @@
+# MuseScore auto-backup files
+*.mscz,
+*.mscz~
+*.mscx~
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Editor/IDE
+.vscode/
+.idea/
