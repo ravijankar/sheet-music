@@ -14,3 +14,10 @@
 # Editor/IDE
 .vscode/
 .idea/
+
+# MuseScore app internals
+META-INF/
+Thumbnails/
+Excerpts/
+audiosettings.json
+viewsettings.json
