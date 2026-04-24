@@ -206,7 +206,7 @@
     <articulationMag>1</articulationMag>
     <articulationPosAbove x="0" y="0"/>
     <articulationAnchorDefault>2</articulationAnchorDefault>
-    <articulationAnchorLuteFingering>1</articulationAnchorLuteFingering>
+    <articulationAnchorLuteFingering>4</articulationAnchorLuteFingering>
     <articulationAnchorOther>0</articulationAnchorOther>
     <articulationStemHAlign>2</articulationStemHAlign>
     <articulationKeepTogether>1</articulationKeepTogether>
@@ -270,7 +270,7 @@
     <pedalPosition>left</pedalPosition>
     <pedalText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</pedalText>
     <pedalHookText></pedalHookText>
-    <pedalContinueText>&lt;sym&gt;keyboardPedalParensLeft&lt;/sym&gt;&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;&lt;sym&gt;keyboardPedalParensRight&lt;/sym&gt;</pedalContinueText>
+    <pedalContinueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</pedalContinueText>
     <pedalContinueHookText></pedalContinueHookText>
     <pedalEndText></pedalEndText>
     <pedalRosetteEndText>&lt;sym&gt;keyboardPedalUp&lt;/sym&gt;</pedalRosetteEndText>
@@ -429,7 +429,7 @@
     <concertPitch>1</concertPitch>
     <multiVoiceRestTwoSpaceOffset>0</multiVoiceRestTwoSpaceOffset>
     <mergeMatchingRests>0</mergeMatchingRests>
-    <createMultiMeasureRests>1</createMultiMeasureRests>
+    <createMultiMeasureRests>0</createMultiMeasureRests>
     <minEmptyMeasures>3</minEmptyMeasures>
     <singleMeasureMMRestUseNormalRest>1</singleMeasureMMRestUseNormalRest>
     <singleMeasureMMRestShowNumber>1</singleMeasureMMRestShowNumber>

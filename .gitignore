@@ -1,4 +1,5 @@
-# MuseScore auto-backup files
+# MuseScore files
+*.mscz
 *.mscz,
 *.mscz~
 *.mscx~

@@ -3,6 +3,7 @@ SHEET_DIR="$HOME/Music/sheet-music"
 OUT_DIR="$SHEET_DIR/exports/tenor-pdfs"
 MSCORE="/Applications/MuseScore 4.app/Contents/MacOS/mscore"
 
+rm -rf "$OUT_DIR"
 mkdir -p "$OUT_DIR"
 
 find "$SHEET_DIR" -maxdepth 1 -name "*.mscx" | while read -r f; do
@@ -13,7 +14,8 @@ find "$SHEET_DIR" -maxdepth 1 -name "*.mscx" | while read -r f; do
   idx=$(echo "$json" | jq '.parts | index("Tenor Saxophone")')
   
   if [ "$idx" != "null" ] && [ -n "$idx" ]; then
-    echo "$json" | jq -r ".partsBin[$idx]" | base64 --decode > "$OUT_DIR/$base.pdf"
+    part=$(echo "$json" | jq -r ".parts[$idx]")
+    echo "$json" | jq -r ".partsBin[$idx]" | base64 --decode > "$OUT_DIR/$base $part.pdf"
     echo "✓ $base"
   else
     echo "✗ No tenor part: $base"
