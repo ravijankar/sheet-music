@@ -6,12 +6,12 @@ MSCORE="/Applications/MuseScore 4.app/Contents/MacOS/mscore"
 rm -rf "$OUT_DIR"
 mkdir -p "$OUT_DIR"
 
-find "$SHEET_DIR" -maxdepth 1 -name "*.mscx" | while read -r f; do
+find "$SHEET_DIR/scores" -maxdepth 1 -name "*.mscx" | while read -r f; do
   base=$(basename "$f" .mscx)
   json=$("$MSCORE" --score-parts-pdf "$f" 2>/dev/null)
   
-  # Find index of "Tenor Saxophone" in parts array
-  idx=$(echo "$json" | jq '.parts | index("Tenor Saxophone")')
+  # Find index of tenor saxophone part (named either "Tenor Saxophone" or "Tenor Sax")
+  idx=$(echo "$json" | jq '.parts | index("Tenor Saxophone") // index("Tenor Sax")')
   
   if [ "$idx" != "null" ] && [ -n "$idx" ]; then
     part=$(echo "$json" | jq -r ".parts[$idx]")

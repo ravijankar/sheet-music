@@ -1,0 +1,61 @@
+# 2025-01-18 Red Rooster
+
+## Set 1
+
+| # | Title | Key | Solos / Notes |
+|---|-------|-----|---------------|
+| 1 | Big Boy | Ab | tenor, keys, guitar |
+| 31 | Everybody Loves Me | F | tenor |
+| 17 | Brand New Thing | C | tenor, keys/guitar |
+| 99 | Would You Believe It? | Bb |  |
+| 72 | Oooh Wow | F | tenor, bari |
+| 92 | Big Mouth Betty | C | tenor |
+| 75 | Tootie Ma | C | tenor |
+| 88 | 669 Across the Street | E | tenor |
+| 16 | Where’s My Baby? | Bb | piano, tenor |
+| 96 | Yoo Hoo | C | tenor, bari |
+| 22 | Baby Don't Do It | F | No solos |
+| 98 | Pretty Girls Everywhere | G | tenor |
+| 100 | Mama, He’s Makin’ Eyes at Me | B | tenor |
+| 87 | Boss Man | F | tenor |
+| 21 | Wild Wild Young Men | B | guitar |
+| 48 | Gee Baby | D | bari |
+| 91 | Mardi Gras Day | Ab | tenor |
+| 102 | Oh Yes | Ab |  |
+| 41 | Let's Do It (the Chicken Scratch) | F | tenor, bari |
+| 24 | Leave My Kitten Alone | Eb | tenor |
+| 86 | Pencil Full of Lead | F | tenor, baritone |
+| 29 | Don’t Mess with My Man | Bb | tenor |
+| 73 | One Monkey | Eb | tenor |
+| 20 | Whip It On Me | Eb | saxes decide |
+| 13 | Shoestring Twist | F | watch John for cue |
+
+## Set 2
+
+| # | Title | Key | Solos / Notes |
+|---|-------|-----|---------------|
+| 85 | Find Yourself Another Fool | F | guitar, tenor |
+| 97 | Talkin’ to Myself | G | baritone |
+| 76 | Night Train to Memphis | G | bari, tenor |
+| 104 | Don't Need Another Lover | E | 1x bari, 1x tenor |
+| 101 | I Wish I Was a Ghost | Am | tenor |
+| 60 | Ella Hula Hula | G | tenor |
+| 10 | Good Rockin’ Daddy | Bb | tenor |
+| 42 | Tweedle Dee | C | tenor |
+| 12 | Hook Line & Sinker | Eb | tenor |
+| 94 | Be My Guest | C | tenor |
+| 46 | For You My Love | D | tenor |
+| 71 | Scandalous | D | guitar/piano |
+| 83 | Movin’ On | D | baritone |
+| 9 | Let the Four Winds Blow | Bb | no solos |
+| 95 | Them There Eyes | Bb | bari, tenor |
+| 12 | Hook Line & Sinker | Eb | tenor |
+| 36 | Lucky Lips | Bb | no solos |
+| 78 | Let's Go Let's Go Let's Go | Eb | piano, tenor |
+| 86 | Pencil Full of Lead | F | tenor, baritone |
+| 55 | Whole Lotta Shakin’ | Eb | tenor/bari soli |
+| 19 | No Fun | D | guitar, tenor |
+| 65 | Shrimp & Gumbo | Eb | no solos |
+| 26 | Get Your Hat | C | baritone |
+| 80 | I Want You to Be My Baby | Eb | no solos |
+| 37 | Chonnie-on-chon |  | Anyone |

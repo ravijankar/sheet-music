@@ -1,0 +1,27 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 16pt;
+}
+h1 {
+  font-size: 20pt;
+  margin: 0 0 10px 0;
+  padding-bottom: 6px;
+  text-align: center;
+  border-bottom: 2px solid #000;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 4px 10px;
+  border: 1px solid #000;
+  text-align: left;
+}
+th {
+  font-size: 14pt;
+  background: #ddd;
+}
+tr:nth-child(even) td {
+  background: #efefef;
+}
