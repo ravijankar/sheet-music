@@ -16,33 +16,22 @@ find "$SHEET_DIR" -maxdepth 1 -name "*.mscz" | sort | while read -r f; do
   tune="${tune//_/ }"
 
   out="$OUT_DIR/$tune.pdf"
-  "$MSCORE" -o "$out" "$f" 2>/dev/null
+
+  # If the score has multiple parts, export only the first (lead sheet)
+  json=$("$MSCORE" --score-parts-pdf "$f" 2>/dev/null)
+  nparts=$(echo "$json" | jq '.parts | length' 2>/dev/null)
+  if [ "$nparts" -gt 1 ] 2>/dev/null; then
+    echo "$json" | jq -r '.partsBin[0]' | base64 --decode > "$out"
+  else
+    "$MSCORE" -o "$out" "$f" 2>/dev/null
+  fi
+
   if [ -f "$out" ]; then
     echo "✓ $tune"
   else
     echo "✗ Failed: $base"
   fi
 done
-
-# Post-process: trim specific PDFs to a single page (lead sheet only)
-trim_to_page1() {
-  local f="$1"
-  python3 - "$f" <<'PYEOF'
-import sys, pypdf, shutil
-src = sys.argv[1]
-reader = pypdf.PdfReader(src)
-if len(reader.pages) > 1:
-    writer = pypdf.PdfWriter()
-    writer.add_page(reader.pages[0])
-    tmp = src + ".tmp"
-    with open(tmp, "wb") as out:
-        writer.write(out)
-    shutil.move(tmp, src)
-    print(f"  trimmed to page 1")
-PYEOF
-}
-
-trim_to_page1 "$OUT_DIR/Honeysuckle Rose.pdf"
 
 # Normalize a filename for comparison: lowercase, strip extension, collapse hyphens/underscores to spaces
 normalize() { echo "$1" | sed 's/\.[Pp][Dd][Ff]$//' | tr '[:upper:]' '[:lower:]' | tr '-' ' ' | tr '_' ' ' | tr -s ' '; }
