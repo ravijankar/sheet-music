@@ -4,6 +4,10 @@
 *.mscz~
 *.mscx~
 
+# Allow mscz/mxml in flamingos subfolder
+!flamingos/*.mscz
+!flamingos/*.mxml
+
 # macOS
 .DS_Store
 .AppleDouble
