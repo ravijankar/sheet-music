@@ -24,6 +24,26 @@ find "$SHEET_DIR" -maxdepth 1 -name "*.mscz" | sort | while read -r f; do
   fi
 done
 
+# Post-process: trim specific PDFs to a single page (lead sheet only)
+trim_to_page1() {
+  local f="$1"
+  python3 - "$f" <<'PYEOF'
+import sys, pypdf, shutil
+src = sys.argv[1]
+reader = pypdf.PdfReader(src)
+if len(reader.pages) > 1:
+    writer = pypdf.PdfWriter()
+    writer.add_page(reader.pages[0])
+    tmp = src + ".tmp"
+    with open(tmp, "wb") as out:
+        writer.write(out)
+    shutil.move(tmp, src)
+    print(f"  trimmed to page 1")
+PYEOF
+}
+
+trim_to_page1 "$OUT_DIR/Honeysuckle Rose.pdf"
+
 # Normalize a filename for comparison: lowercase, strip extension, collapse hyphens/underscores to spaces
 normalize() { echo "$1" | sed 's/\.[Pp][Dd][Ff]$//' | tr '[:upper:]' '[:lower:]' | tr '-' ' ' | tr '_' ' ' | tr -s ' '; }
 
