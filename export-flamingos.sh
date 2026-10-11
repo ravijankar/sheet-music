@@ -1,7 +1,8 @@
 #!/bin/bash
-SHEET_DIR="$HOME/Music/sheet-music/flamingos"
-OUT_DIR="$HOME/Music/sheet-music/exports/flamingos-pdfs"
-ZIP_OUT="$HOME/Music/sheet-music/exports/Flamingos_2026_06_09.zip"
+ROOT_DIR="$(cd "$(dirname "$0")" && pwd)"
+SHEET_DIR="$ROOT_DIR/flamingos"
+OUT_DIR="$ROOT_DIR/exports/flamingos-pdfs"
+ZIP_OUT="$ROOT_DIR/exports/Flamingos_$(date +%Y_%m_%d).zip"
 MSCORE="/Applications/MuseScore 4.app/Contents/MacOS/mscore"
 
 mkdir -p "$OUT_DIR"

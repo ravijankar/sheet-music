@@ -11,7 +11,8 @@ find "$SHEET_DIR/scores" -maxdepth 1 -name "*.mscx" | while read -r f; do
   base=$(basename "$f" .mscx)
   # Export from an isolated copy: MuseScore treats the folder around an .mscx
   # as the score package and would pick up a stray Excerpts/ from another score.
-  rm -rf "$WORK_DIR" && mkdir -p "$WORK_DIR" && cp "$f" "$WORK_DIR/"
+  # The shared style file has to travel with it, or the parts lose their formatting.
+  rm -rf "$WORK_DIR" && mkdir -p "$WORK_DIR" && cp "$f" "$SHEET_DIR/score_style.mss" "$WORK_DIR/"
   json=$("$MSCORE" --score-parts-pdf "$WORK_DIR/$base.mscx" 2>/dev/null)
 
   # Find index of baritone saxophone part (named either "Baritone Saxophone" or "Bari Sax")
