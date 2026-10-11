@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<museScore version="4.60">
-  <programVersion>4.6.5</programVersion>
-  <programRevision>653f38d</programRevision>
+<museScore version="4.70">
+  <programVersion>4.7.4</programVersion>
+  <programRevision>7688c00</programRevision>
   <Score>
     <eid>P1oCFdgVrsC_aaUZpi3MKkM</eid>
     <Division>480</Division>
@@ -89,6 +89,7 @@
         <barLineSpan>1</barLineSpan>
         </Staff>
       <trackName>Tenor Saxophone</trackName>
+      <preferSharpFlat>none</preferSharpFlat>
       <Instrument id="tenor-saxophone">
         <longName>Tenor Saxophone</longName>
         <shortName>T. Sax.</shortName>
@@ -126,6 +127,7 @@
         <defaultTransposingClef>G</defaultTransposingClef>
         </Staff>
       <trackName>Baritone Saxophone</trackName>
+      <preferSharpFlat>none</preferSharpFlat>
       <Instrument id="baritone-saxophone">
         <longName>Baritone Saxophone</longName>
         <shortName>Bar. Sax.</shortName>
@@ -206,6 +208,10 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>uYjuR7TR5nH_LwHmBACY71B</eid>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                <eid>4S/LR4SR81N_aK0Ew9dfzP</eid>
+                </Accidental>
               <pitch>51</pitch>
               <tpc>23</tpc>
               <tpc2>13</tpc2>
@@ -298,8 +304,8 @@
             <Note>
               <eid>C83Lj9ttQ5C_zkjbB5we8mM</eid>
               <Accidental>
-                <subtype>accidentalNatural</subtype>
-                <eid>/xKJSGtCnMB_Wk0uY8BnAoC</eid>
+                <subtype>accidentalDoubleFlat</subtype>
+                <eid>BpS4E/xhVxB_z3oM8HA0jOI</eid>
                 </Accidental>
               <pitch>53</pitch>
               <tpc>13</tpc>
@@ -392,6 +398,10 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>Ddl3+pb5naC_X80Ni/7rx1E</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>n+XMJ7giHSD_CWITcNr6dhK</eid>
+                </Accidental>
               <pitch>49</pitch>
               <tpc>21</tpc>
               <tpc2>11</tpc2>
@@ -483,6 +493,10 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>CEynzh9I3hI_jwF+VlzqZGH</eid>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                <eid>NI1+G8LEEYI_pANtVAIhfeJ</eid>
+                </Accidental>
               <pitch>51</pitch>
               <tpc>23</tpc>
               <tpc2>13</tpc2>
@@ -574,6 +588,10 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>X2vpL4VnssN_BkNZO943B+O</eid>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                <eid>t63Arj9zBjJ_chSKYprehaN</eid>
+                </Accidental>
               <pitch>51</pitch>
               <tpc>23</tpc>
               <tpc2>13</tpc2>
@@ -665,6 +683,10 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>AXEeY80xbuD_mXcC3LbrWhE</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>cdMSMVlUUaP_PdN5NXQ/SGH</eid>
+                </Accidental>
               <pitch>54</pitch>
               <tpc>20</tpc>
               <tpc2>10</tpc2>
@@ -756,6 +778,10 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>tMRtjEBol1N_rG8OO6f5cOG</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>bZ8L98P0O2P_4f5pwSXleKI</eid>
+                </Accidental>
               <pitch>54</pitch>
               <tpc>20</tpc>
               <tpc2>10</tpc2>
@@ -847,6 +873,10 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>APTLGnEkAMP_/QpIVUh67oF</eid>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                <eid>Hd+2MQhPgkD_2Q7zWwDm9bP</eid>
+                </Accidental>
               <pitch>51</pitch>
               <tpc>23</tpc>
               <tpc2>13</tpc2>
@@ -884,6 +914,10 @@
             <durationType>whole</durationType>
             <Note>
               <eid>PKgDLo6gW1P_hBzUUaXOvZN</eid>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                <eid>QFYtccvB5VE_UTA+TEgtgwF</eid>
+                </Accidental>
               <pitch>51</pitch>
               <tpc>23</tpc>
               <tpc2>13</tpc2>
@@ -912,8 +946,8 @@
             <Note>
               <eid>fPPZmtnvDxK_gbeRg1IzViP</eid>
               <Accidental>
-                <subtype>accidentalNatural</subtype>
-                <eid>HE2RioYz+EM_U+iL+TH8elE</eid>
+                <subtype>accidentalDoubleFlat</subtype>
+                <eid>kts8uIw4aID_hXyQn5G/JoG</eid>
                 </Accidental>
               <pitch>53</pitch>
               <tpc>13</tpc>
@@ -942,6 +976,10 @@
             <durationType>whole</durationType>
             <Note>
               <eid>sTtSODYD7nI_exO0LImP2wG</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>hSf9/ydz54_B+w0r5njMEO</eid>
+                </Accidental>
               <pitch>54</pitch>
               <tpc>20</tpc>
               <tpc2>10</tpc2>
@@ -970,8 +1008,8 @@
             <Note>
               <eid>TyRVkT6zZRH_BvBBTypfl0O</eid>
               <Accidental>
-                <subtype>accidentalNatural</subtype>
-                <eid>Tocfa8N3UJ_pZ6RwF+tifH</eid>
+                <subtype>accidentalDoubleFlat</subtype>
+                <eid>fwGXn2+jvzE_JhaRZ8SlxmF</eid>
                 </Accidental>
               <pitch>55</pitch>
               <tpc>15</tpc>
@@ -1000,6 +1038,10 @@
             <durationType>whole</durationType>
             <Note>
               <eid>lWsDOY5RfKF_URn6URDDoYP</eid>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                <eid>SLNmk3tlyHO_PTAR8JaXHXI</eid>
+                </Accidental>
               <pitch>51</pitch>
               <tpc>23</tpc>
               <tpc2>13</tpc2>
@@ -1015,6 +1057,10 @@
             <durationType>whole</durationType>
             <Note>
               <eid>cxkE9KpRyTE_6NoiokBoW8B</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>BlKkfHSCqZJ_l/epAajwPMB</eid>
+                </Accidental>
               <pitch>54</pitch>
               <tpc>20</tpc>
               <tpc2>10</tpc2>
@@ -1030,6 +1076,10 @@
             <durationType>whole</durationType>
             <Note>
               <eid>A1dSoot5ZWI_E2S6RP0w5QH</eid>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                <eid>S92+iml0iGI_Qi+Hjd9yb4P</eid>
+                </Accidental>
               <pitch>51</pitch>
               <tpc>23</tpc>
               <tpc2>13</tpc2>
@@ -1045,6 +1095,10 @@
             <durationType>whole</durationType>
             <Note>
               <eid>j7wwSI1oooP_vOAA8+Amt1B</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>R1KqdrOzZxH_tdHK4U0f+0F</eid>
+                </Accidental>
               <pitch>54</pitch>
               <tpc>20</tpc>
               <tpc2>10</tpc2>
@@ -1060,6 +1114,10 @@
             <durationType>whole</durationType>
             <Note>
               <eid>oeJGzJLAL5M_ASDafhlVS6G</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>nE0BLXlVdcE_Ei06awDeypH</eid>
+                </Accidental>
               <pitch>59</pitch>
               <tpc>19</tpc>
               <tpc2>9</tpc2>
@@ -1075,6 +1133,10 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>3ODTmWWDunN_UZ/xAkca0nP</eid>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                <eid>HTu+sPNTlkH_wQ4ugxB+VQH</eid>
+                </Accidental>
               <pitch>58</pitch>
               <tpc>24</tpc>
               <tpc2>14</tpc2>
@@ -1102,6 +1164,10 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>rcL0JlWj6wD_w3dTB+6qBWG</eid>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                <eid>S99YdbKm4QK_bwhn5zYfPSJ</eid>
+                </Accidental>
               <pitch>51</pitch>
               <tpc>23</tpc>
               <tpc2>13</tpc2>
@@ -1185,6 +1251,10 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>Pwas/8RbPyJ_WPo9AAiX+CF</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>9/ZigVyXR9G_6nar49DVI+F</eid>
+                </Accidental>
               <pitch>54</pitch>
               <tpc>20</tpc>
               <tpc2>10</tpc2>
@@ -1281,6 +1351,10 @@
             <noStem>1</noStem>
             <Note>
               <eid>0hE1McQDEhF_dRVrt+8uTKL</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>8FTmSuEQQ4K_ZDmrsFrGYMD</eid>
+                </Accidental>
               <pitch>56</pitch>
               <tpc>22</tpc>
               <tpc2>12</tpc2>
@@ -1350,6 +1424,10 @@
             <noStem>1</noStem>
             <Note>
               <eid>KL+wc+EU8gP_OXm/6aNq2/</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>W+e598HPoYH_en9TULxonAG</eid>
+                </Accidental>
               <pitch>56</pitch>
               <tpc>22</tpc>
               <tpc2>12</tpc2>
@@ -1425,6 +1503,10 @@
             <noStem>1</noStem>
             <Note>
               <eid>jVnZ2U0RhBD_nUOsPfb7rIG</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>CfBUfMSE4lJ_Sbb/M4lMc3C</eid>
+                </Accidental>
               <pitch>56</pitch>
               <tpc>22</tpc>
               <tpc2>12</tpc2>
@@ -1494,6 +1576,10 @@
             <noStem>1</noStem>
             <Note>
               <eid>ol8648g77vP_VOGkNhT2rFB</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>z7TyDlyX4rC_Ui8JN5y3yAJ</eid>
+                </Accidental>
               <pitch>56</pitch>
               <tpc>22</tpc>
               <tpc2>12</tpc2>
@@ -1569,6 +1655,10 @@
             <noStem>1</noStem>
             <Note>
               <eid>Hie9/jXxfDC_U589cB6umNI</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>a+j1nDST/VI_aBdoYZIBLtO</eid>
+                </Accidental>
               <pitch>56</pitch>
               <tpc>22</tpc>
               <tpc2>12</tpc2>
@@ -1638,6 +1728,10 @@
             <noStem>1</noStem>
             <Note>
               <eid>+ztLSThuzWP_hvrFNe1QIwF</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>IIF17OHiw0P_nzNeudxzL0J</eid>
+                </Accidental>
               <pitch>56</pitch>
               <tpc>22</tpc>
               <tpc2>12</tpc2>
@@ -1713,6 +1807,10 @@
             <noStem>1</noStem>
             <Note>
               <eid>FtV/MWj6J2_lAUohCtRj8H</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>GRvJQd/zceL_CIBj+GCIFOJ</eid>
+                </Accidental>
               <pitch>56</pitch>
               <tpc>22</tpc>
               <tpc2>12</tpc2>
@@ -1782,6 +1880,10 @@
             <noStem>1</noStem>
             <Note>
               <eid>BeDlOFeKWKO_pxioKN5/fIM</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>F/dh6+j1sOO_7Nc2E975IqH</eid>
+                </Accidental>
               <pitch>56</pitch>
               <tpc>22</tpc>
               <tpc2>12</tpc2>
@@ -1857,6 +1959,10 @@
             <noStem>1</noStem>
             <Note>
               <eid>wedEvBFz5TO_GVjlr6fp0xM</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>nPW/BKCD2tL_sy88/JmiLWG</eid>
+                </Accidental>
               <pitch>56</pitch>
               <tpc>22</tpc>
               <tpc2>12</tpc2>
@@ -1926,6 +2032,10 @@
             <noStem>1</noStem>
             <Note>
               <eid>XaauA/DgzhE_SV7zlE4eirF</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>giYA6cvdIZ_R2eKb/+SxHG</eid>
+                </Accidental>
               <pitch>56</pitch>
               <tpc>22</tpc>
               <tpc2>12</tpc2>
@@ -2001,6 +2111,10 @@
             <noStem>1</noStem>
             <Note>
               <eid>NUBYEkQPKQK_Ur7j7WNeW9D</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>Inxx+uXEcmP_i8YMQ9IiysJ</eid>
+                </Accidental>
               <pitch>56</pitch>
               <tpc>22</tpc>
               <tpc2>12</tpc2>
@@ -2070,6 +2184,10 @@
             <noStem>1</noStem>
             <Note>
               <eid>3xKaycr+F9D_PC7fnEXKf7B</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>eDOJ+I+afVG_KDFTbyUd37C</eid>
+                </Accidental>
               <pitch>56</pitch>
               <tpc>22</tpc>
               <tpc2>12</tpc2>
@@ -2145,6 +2263,10 @@
             <noStem>1</noStem>
             <Note>
               <eid>QgXphOwdpC_twH023LLQ7</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>8TNyLVg3YwK_UcbsSd8jWP</eid>
+                </Accidental>
               <pitch>56</pitch>
               <tpc>22</tpc>
               <tpc2>12</tpc2>
@@ -2214,6 +2336,10 @@
             <noStem>1</noStem>
             <Note>
               <eid>GBf7IY4gwYI_TWBNyxSKEoP</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>6Mpv+dbURZH_EHGQ1295/VH</eid>
+                </Accidental>
               <pitch>56</pitch>
               <tpc>22</tpc>
               <tpc2>12</tpc2>
@@ -2289,6 +2415,10 @@
             <noStem>1</noStem>
             <Note>
               <eid>wOzm1CcViOM_imlIDh4e4mD</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>iuqKm3YkMCO_06aXnndZLPI</eid>
+                </Accidental>
               <pitch>56</pitch>
               <tpc>22</tpc>
               <tpc2>12</tpc2>
@@ -2358,6 +2488,10 @@
             <noStem>1</noStem>
             <Note>
               <eid>s/hmfI6YV6G_gscvhmZU6IP</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>Owa4v/0/28B_DR733XzvJ/P</eid>
+                </Accidental>
               <pitch>56</pitch>
               <tpc>22</tpc>
               <tpc2>12</tpc2>
@@ -2433,6 +2567,10 @@
             <noStem>1</noStem>
             <Note>
               <eid>1SPtNyQbjKI_Cv8UmYPxt2H</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>UcjI/vEHZCD_/fwCtcq1C4L</eid>
+                </Accidental>
               <pitch>56</pitch>
               <tpc>22</tpc>
               <tpc2>12</tpc2>
@@ -2502,6 +2640,10 @@
             <noStem>1</noStem>
             <Note>
               <eid>iWe57v9xIMO_kTrYDEGU9sN</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>lNovd2KzfaF_77roVEa8VKI</eid>
+                </Accidental>
               <pitch>56</pitch>
               <tpc>22</tpc>
               <tpc2>12</tpc2>
@@ -2577,6 +2719,10 @@
             <noStem>1</noStem>
             <Note>
               <eid>mqxa5Db3DAI_FActj63RNJM</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>mNO4zEm9VYP_grHotHsUWgL</eid>
+                </Accidental>
               <pitch>56</pitch>
               <tpc>22</tpc>
               <tpc2>12</tpc2>
@@ -2646,6 +2792,10 @@
             <noStem>1</noStem>
             <Note>
               <eid>4PMR/+nxePJ_6OJqoUOapJE</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>eb0ScDjfRKL_9rbKP3uXX9O</eid>
+                </Accidental>
               <pitch>56</pitch>
               <tpc>22</tpc>
               <tpc2>12</tpc2>
@@ -2721,6 +2871,10 @@
             <noStem>1</noStem>
             <Note>
               <eid>IDhoCa8crlI_BUMqSJ+6d5H</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>tvVJcipSgfK_A5yxDNfKWiP</eid>
+                </Accidental>
               <pitch>56</pitch>
               <tpc>22</tpc>
               <tpc2>12</tpc2>
@@ -2790,6 +2944,10 @@
             <noStem>1</noStem>
             <Note>
               <eid>E8a/8UJjn4_5emLEA+10kP</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>v58bZ7v8qfP_2aMvwX0oKyF</eid>
+                </Accidental>
               <pitch>56</pitch>
               <tpc>22</tpc>
               <tpc2>12</tpc2>
@@ -2865,6 +3023,10 @@
             <noStem>1</noStem>
             <Note>
               <eid>BU3f0OLP5UK_XtBKbOpNcdE</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>yZ2mYaXPEfO_+DXJkX2bj/B</eid>
+                </Accidental>
               <pitch>56</pitch>
               <tpc>22</tpc>
               <tpc2>12</tpc2>
@@ -2934,6 +3096,10 @@
             <noStem>1</noStem>
             <Note>
               <eid>s6JaJQfrPaD_51CUSf9/dlP</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>vfwPUwzUttG_v8Lua2r2diI</eid>
+                </Accidental>
               <pitch>56</pitch>
               <tpc>22</tpc>
               <tpc2>12</tpc2>
@@ -3009,6 +3175,10 @@
             <noStem>1</noStem>
             <Note>
               <eid>0u0FJPk9QaP_q/84rhMiGvH</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>OQKmHvKFkcC_CdDthUzUQcL</eid>
+                </Accidental>
               <pitch>56</pitch>
               <tpc>22</tpc>
               <tpc2>12</tpc2>
@@ -3084,6 +3254,10 @@
             <noStem>1</noStem>
             <Note>
               <eid>2yfURQYRqkN_28YS9o0mR1N</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>W5ugyyYVYIF_R18R+FbbbwP</eid>
+                </Accidental>
               <pitch>56</pitch>
               <tpc>22</tpc>
               <tpc2>12</tpc2>
@@ -3159,6 +3333,10 @@
             <noStem>1</noStem>
             <Note>
               <eid>+vhMzMSQzFD_5EJbTdLHVlM</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>HaURxHVPfXI_O3IFL0/6/NB</eid>
+                </Accidental>
               <pitch>56</pitch>
               <tpc>22</tpc>
               <tpc2>12</tpc2>
@@ -3234,6 +3412,10 @@
             <noStem>1</noStem>
             <Note>
               <eid>Tjrw/N83c3N_KGtPF08CuPF</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>AMA76UIdtDF_alacD8dOdkP</eid>
+                </Accidental>
               <pitch>56</pitch>
               <tpc>22</tpc>
               <tpc2>12</tpc2>
@@ -3309,6 +3491,10 @@
             <noStem>1</noStem>
             <Note>
               <eid>4R46zHoIoXF_vvWtxXJJANM</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>OtYBLSVqh6K_B78iZPB39v</eid>
+                </Accidental>
               <pitch>56</pitch>
               <tpc>22</tpc>
               <tpc2>12</tpc2>
@@ -3384,6 +3570,10 @@
             <noStem>1</noStem>
             <Note>
               <eid>n8AB+1XSYUD_2P+e4btzCDB</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>SGBQZH2Ei5K_KEUuT61u8OC</eid>
+                </Accidental>
               <pitch>56</pitch>
               <tpc>22</tpc>
               <tpc2>12</tpc2>
@@ -3459,6 +3649,10 @@
             <noStem>1</noStem>
             <Note>
               <eid>Z6d7p0avVfD_uUC29LXciRK</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>T7Ucsvu23b_Omfqn/X56cI</eid>
+                </Accidental>
               <pitch>56</pitch>
               <tpc>22</tpc>
               <tpc2>12</tpc2>
@@ -3528,6 +3722,10 @@
             <noStem>1</noStem>
             <Note>
               <eid>3iEA3JYUuXF_lb1PpW5ROUI</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>ZSe8GKppF5D_TvDKIv191+I</eid>
+                </Accidental>
               <pitch>56</pitch>
               <tpc>22</tpc>
               <tpc2>12</tpc2>
@@ -3609,6 +3807,10 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>kKwvTxk4ZuF_p1LUhRrcb4</eid>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                <eid>JZllXqvgL1C_iaYi7orQIpK</eid>
+                </Accidental>
               <pitch>51</pitch>
               <tpc>23</tpc>
               <tpc2>13</tpc2>
@@ -3726,6 +3928,10 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>82kFWsxjRqK_qHtzT9o3DfL</eid>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                <eid>0kDsWMh/U6G_RwIhwwxtMtE</eid>
+                </Accidental>
               <pitch>60</pitch>
               <tpc>26</tpc>
               <tpc2>16</tpc2>
@@ -3811,6 +4017,10 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>QnjM4fDdp6G_vo7LrU2O0dH</eid>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                <eid>V1dR9XhBCuM_DrxQpkHcjRK</eid>
+                </Accidental>
               <pitch>53</pitch>
               <tpc>25</tpc>
               <tpc2>15</tpc2>
@@ -3909,8 +4119,8 @@
             <Note>
               <eid>gCGU5F/OgMH_K/rzdWjSXOP</eid>
               <Accidental>
-                <subtype>accidentalDoubleSharp</subtype>
-                <eid>Ozsohop8GEG_f0Iw5oa+MDC</eid>
+                <subtype>accidentalNatural</subtype>
+                <eid>nzCYN57Z8SC_TB9wNh0sosP</eid>
                 </Accidental>
               <pitch>55</pitch>
               <tpc>27</tpc>
@@ -4009,6 +4219,10 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>s464Ld8CbeB_KTKtQj7bsuB</eid>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                <eid>5TuBwVRAseP_0Yxwl9qD/BF</eid>
+                </Accidental>
               <pitch>51</pitch>
               <tpc>23</tpc>
               <tpc2>13</tpc2>
@@ -4106,6 +4320,10 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>mQpUjrf2f5C_abbIJi6y73K</eid>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                <eid>b18qnHf4zLI_wBqgIjLbbIG</eid>
+                </Accidental>
               <pitch>53</pitch>
               <tpc>25</tpc>
               <tpc2>15</tpc2>
@@ -4203,6 +4421,10 @@
             <durationType>whole</durationType>
             <Note>
               <eid>MoFqJ9xVJbO_HeoKHSrLHpG</eid>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                <eid>obDI47pKIsC_uP1av7U1HrF</eid>
+                </Accidental>
               <pitch>53</pitch>
               <tpc>25</tpc>
               <tpc2>15</tpc2>
@@ -4224,6 +4446,10 @@
             <durationType>whole</durationType>
             <Note>
               <eid>qKYH551XSnD_gnxVtHdsbVK</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>4SaT4LVNaQL_IFmzplOz7kE</eid>
+                </Accidental>
               <pitch>56</pitch>
               <tpc>22</tpc>
               <tpc2>12</tpc2>
@@ -4245,6 +4471,10 @@
             <durationType>whole</durationType>
             <Note>
               <eid>wUQaWqY9DdH_NJZgWBscK8G</eid>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                <eid>B+6Ir4jgMkP_JtCiGbUPxJK</eid>
+                </Accidental>
               <pitch>53</pitch>
               <tpc>25</tpc>
               <tpc2>15</tpc2>
@@ -4266,6 +4496,10 @@
             <durationType>whole</durationType>
             <Note>
               <eid>mhVi+T+otxD_87aLNr0sDqC</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>23vzMVI3NcN_inJvzSk1NsF</eid>
+                </Accidental>
               <pitch>56</pitch>
               <tpc>22</tpc>
               <tpc2>12</tpc2>
@@ -4287,6 +4521,10 @@
             <durationType>whole</durationType>
             <Note>
               <eid>bnGtUQK6BNN_/SUsZVgHMlK</eid>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                <eid>5bbAEIKBJyG_yLmURR96IjJ</eid>
+                </Accidental>
               <pitch>58</pitch>
               <tpc>24</tpc>
               <tpc2>14</tpc2>
@@ -4302,6 +4540,10 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>7mpfIQV4n5N_ALOy1pblo8I</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>Eo2pzLlYLaN_XNqiNdGi/5F</eid>
+                </Accidental>
               <pitch>56</pitch>
               <tpc>22</tpc>
               <tpc2>12</tpc2>
@@ -4348,6 +4590,10 @@
             <durationType>quarter</durationType>
             <Note>
               <eid>X4hkr48KiAF_nUyXTYzWd6P</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>fggJiX5c9iN_LMo2PPPy+zP</eid>
+                </Accidental>
               <pitch>61</pitch>
               <tpc>21</tpc>
               <tpc2>11</tpc2>
@@ -4391,6 +4637,10 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>7Qstud8PKbI_KlVxmAroLZD</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>f9XomAs3uXJ_R3J6qAjMRdC</eid>
+                </Accidental>
               <pitch>59</pitch>
               <tpc>19</tpc>
               <tpc2>10</tpc2>
@@ -4480,6 +4730,10 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>6Awqvkn6+GJ_wVkqi1R3tRN</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>r0C9+y6ZMDO_WY+g1GDAl8O</eid>
+                </Accidental>
               <pitch>61</pitch>
               <tpc>21</tpc>
               <tpc2>12</tpc2>
@@ -4569,6 +4823,10 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>djGznvd/qRD_P1CLMha8arP</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>JHmZieb/lIK_9hAS3W032uF</eid>
+                </Accidental>
               <pitch>54</pitch>
               <tpc>20</tpc>
               <tpc2>11</tpc2>
@@ -4658,6 +4916,10 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>VnUEsWku+lD_Xu0j3mOJYeO</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>wRGMRnpOg0N_gkjP0Vkj+fJ</eid>
+                </Accidental>
               <pitch>59</pitch>
               <tpc>19</tpc>
               <tpc2>10</tpc2>
@@ -4747,6 +5009,10 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>M7NUvCWDHEF_5WJa6OMVmVJ</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>MDDmPDVxt7G_4YGToZ5JYSL</eid>
+                </Accidental>
               <pitch>59</pitch>
               <tpc>19</tpc>
               <tpc2>10</tpc2>
@@ -4836,6 +5102,10 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>EHR9ToyukrJ_/cY//UmkODC</eid>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                <eid>bOQ1XtTYaAB_3h4R/+cFHSM</eid>
+                </Accidental>
               <pitch>58</pitch>
               <tpc>24</tpc>
               <tpc2>15</tpc2>
@@ -4925,6 +5195,10 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>lRzm4IFsSqI_HaNM2NI25hJ</eid>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                <eid>HQfhXYrqOBK_xhUBEKIy2cC</eid>
+                </Accidental>
               <pitch>58</pitch>
               <tpc>24</tpc>
               <tpc2>15</tpc2>
@@ -5014,6 +5288,10 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>NBQhH1gMWjK_KhkQKyXMFQE</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>KBp3FtESBzD_yHei/NNqO7H</eid>
+                </Accidental>
               <pitch>47</pitch>
               <tpc>19</tpc>
               <tpc2>10</tpc2>
@@ -5049,6 +5327,10 @@
             <durationType>whole</durationType>
             <Note>
               <eid>93hyS8FKu9C_/KVCPKmg08N</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>aHrq6Z6NlQP_UVEsP7CmAWO</eid>
+                </Accidental>
               <pitch>59</pitch>
               <tpc>19</tpc>
               <tpc2>10</tpc2>
@@ -5074,6 +5356,10 @@
             <durationType>whole</durationType>
             <Note>
               <eid>dZkb6FnrhcC_WT1O6bYdg+L</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>NhQDLT1fdzD_8d3XTzux/CG</eid>
+                </Accidental>
               <pitch>61</pitch>
               <tpc>21</tpc>
               <tpc2>12</tpc2>
@@ -5099,6 +5385,10 @@
             <durationType>whole</durationType>
             <Note>
               <eid>Ys5DP7q0VnJ_RZrijvTdn2L</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>iC3lReGiB+M_xFqabHt42bF</eid>
+                </Accidental>
               <pitch>61</pitch>
               <tpc>21</tpc>
               <tpc2>12</tpc2>
@@ -5124,6 +5414,10 @@
             <durationType>whole</durationType>
             <Note>
               <eid>WshMk6MxvYP_FK6YtTFgB9I</eid>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                <eid>pdi+X/8eiRL_6Fef+wWwhRK</eid>
+                </Accidental>
               <pitch>51</pitch>
               <tpc>23</tpc>
               <tpc2>14</tpc2>
@@ -5149,6 +5443,10 @@
             <durationType>whole</durationType>
             <Note>
               <eid>fejPVUewdEM_fpJhP1qC+XG</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>YKVW4qhF4FH_8oKn1NyDdrD</eid>
+                </Accidental>
               <pitch>59</pitch>
               <tpc>19</tpc>
               <tpc2>10</tpc2>
@@ -5163,6 +5461,10 @@
             <durationType>whole</durationType>
             <Note>
               <eid>j+KwTAp9nvH_QPwQ026bc8M</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>wQSUouzlyAC_KmTXSOGo2FN</eid>
+                </Accidental>
               <pitch>61</pitch>
               <tpc>21</tpc>
               <tpc2>12</tpc2>
@@ -5177,6 +5479,10 @@
             <durationType>whole</durationType>
             <Note>
               <eid>A0W7JUUFwY_tDuhQLS/j7L</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>phCv71gfFGG_imhXMEQYVtI</eid>
+                </Accidental>
               <pitch>59</pitch>
               <tpc>19</tpc>
               <tpc2>10</tpc2>
@@ -5191,6 +5497,10 @@
             <durationType>whole</durationType>
             <Note>
               <eid>N1PAVrclkxD_clJtZP3jbUJ</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>InjXfb+5GZH_UTV9JITLodM</eid>
+                </Accidental>
               <pitch>61</pitch>
               <tpc>21</tpc>
               <tpc2>12</tpc2>
@@ -5205,6 +5515,10 @@
             <durationType>whole</durationType>
             <Note>
               <eid>/jDNmW30GYP_UNlMfbHI1EB</eid>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                <eid>AnxZoZs8xrJ_UaOYza3OIQH</eid>
+                </Accidental>
               <pitch>51</pitch>
               <tpc>23</tpc>
               <tpc2>14</tpc2>
@@ -5219,6 +5533,10 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>y5mJVMhN33C_Y08fpYhCgX</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>lEAqNGsQl2P_/V0esmp/8MN</eid>
+                </Accidental>
               <pitch>54</pitch>
               <tpc>20</tpc>
               <tpc2>11</tpc2>
@@ -5245,6 +5563,10 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>U1tiVr8FIaJ_TEL3EBBpXsE</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>7tf/kB6Pn4F_j44b4o+QoXL</eid>
+                </Accidental>
               <pitch>59</pitch>
               <tpc>19</tpc>
               <tpc2>10</tpc2>
@@ -5327,6 +5649,10 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>+4gFhpil7YE_wW8Ug8uWPVM</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>Kfbb9haibjG_VtJFkhqBpTI</eid>
+                </Accidental>
               <pitch>52</pitch>
               <tpc>18</tpc>
               <tpc2>9</tpc2>
@@ -5697,6 +6023,10 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>vexqhVVQysM_dsFw8++c5mH</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>/71utXamtWI_O/dN0rr4AOM</eid>
+                </Accidental>
               <pitch>59</pitch>
               <tpc>19</tpc>
               <tpc2>10</tpc2>
@@ -5805,6 +6135,10 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>7ovJ+EmEb7J_V3Ya1vwfMhM</eid>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                <eid>sZQ1lAXJrXE_l0zBVFj3zmN</eid>
+                </Accidental>
               <pitch>56</pitch>
               <tpc>22</tpc>
               <tpc2>13</tpc2>
@@ -5879,6 +6213,10 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>7ureCLhiUUC_mZrTNep2qpH</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>RY5RrDqOtzE_JML1iia+k/C</eid>
+                </Accidental>
               <pitch>61</pitch>
               <tpc>21</tpc>
               <tpc2>12</tpc2>
@@ -5968,6 +6306,10 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>Juwx5aUB1qI_mTFBixu6C1K</eid>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                <eid>NJXVD5NBdZP_pk8RVov8c9E</eid>
+                </Accidental>
               <pitch>63</pitch>
               <tpc>23</tpc>
               <tpc2>14</tpc2>
@@ -6057,6 +6399,10 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>+b69edlJVVB_TKDDG58+hZH</eid>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                <eid>jaLviZZgbwC_OP0Qx1T3zd</eid>
+                </Accidental>
               <pitch>56</pitch>
               <tpc>22</tpc>
               <tpc2>13</tpc2>
@@ -6146,6 +6492,10 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>73XaAEOgf3N_hBHfw3W2jIL</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>5aMsfrWiwAE_w9P4kEOY28J</eid>
+                </Accidental>
               <pitch>61</pitch>
               <tpc>21</tpc>
               <tpc2>12</tpc2>
@@ -6235,6 +6585,10 @@
             <durationType>whole</durationType>
             <Note>
               <eid>HG2m9v2KN/B_ogx9CFeAxfC</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>ByFIgDsd5/L_K4lIdRGER4E</eid>
+                </Accidental>
               <pitch>61</pitch>
               <tpc>21</tpc>
               <tpc2>12</tpc2>
@@ -6249,6 +6603,10 @@
             <durationType>whole</durationType>
             <Note>
               <eid>mq1WthE3xqM_aYH1J7uGO4J</eid>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                <eid>AgV1pAiNcyM_rABnrVzcySN</eid>
+                </Accidental>
               <pitch>63</pitch>
               <tpc>23</tpc>
               <tpc2>14</tpc2>
@@ -6263,6 +6621,10 @@
             <durationType>whole</durationType>
             <Note>
               <eid>KEH5M1vCHhC_xTSIapGtAOP</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>EEOOmkySOYH_Q4VnqOeWQLO</eid>
+                </Accidental>
               <pitch>61</pitch>
               <tpc>21</tpc>
               <tpc2>12</tpc2>
@@ -6277,6 +6639,10 @@
             <durationType>whole</durationType>
             <Note>
               <eid>U+5/+ldO/LK_dv+tFx41VZK</eid>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                <eid>YKmCrQltx1C_u5f3NDxgqyB</eid>
+                </Accidental>
               <pitch>63</pitch>
               <tpc>23</tpc>
               <tpc2>14</tpc2>
@@ -6291,6 +6657,10 @@
             <durationType>whole</durationType>
             <Note>
               <eid>WFLpwPYakqB_xXYFT7mcycK</eid>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                <eid>a/XFsqKA3MP_2PQAa9WUflM</eid>
+                </Accidental>
               <pitch>51</pitch>
               <tpc>23</tpc>
               <tpc2>14</tpc2>
@@ -6305,6 +6675,10 @@
             <durationType>eighth</durationType>
             <Note>
               <eid>/zSgaKohImE_bsNIqk4mqVN</eid>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                <eid>uARKyfvwpYK_lhVuT/bP1yB</eid>
+                </Accidental>
               <pitch>63</pitch>
               <tpc>23</tpc>
               <tpc2>14</tpc2>
@@ -6349,6 +6723,10 @@
             <durationType>quarter</durationType>
             <Note>
               <eid>vIMP5g6Q61M_EZkwNrIZjY</eid>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                <eid>zCV1IO7NeHH_q84IuKRGR/K</eid>
+                </Accidental>
               <pitch>61</pitch>
               <tpc>21</tpc>
               <tpc2>12</tpc2>
